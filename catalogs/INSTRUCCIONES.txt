@@ -1,0 +1,24 @@
+📄 INSTRUCCIONES - Archivos PDF Requeridos
+=============================================
+
+Esta carpeta debe contener los siguientes archivos PDF:
+
+1. yazbek.pdf - Playeras y ropa básica de alta demanda
+2. optima.pdf - Ropa casual y de algodón
+3. playerytees.pdf - Playeras tipo polo, cuello redondo y especialidades
+4. shaka.pdf - Ropa con enfoque en diseño y estilo
+5. temporada.pdf - Colecciones específicas según la época del año
+6. dimeo.pdf - Catálogo especializado en calendarios
+
+CÓMO FUNCIONA:
+- Los botones "Ver Catálogo" en el sitio principal apuntan a páginas HTML
+  que visualizan los PDFs de esta carpeta.
+- Cada página tiene un visualizador embebido y un botón de descarga.
+- Los PDFs se visualizan usando un iframe HTML5 estándar.
+- Si un navegador no puede visualizar el PDF, los usuarios pueden descargarlo.
+
+NOTAS:
+- Asegúrate de que los nombres de los archivos sean exactamente como se 
+  especifican arriba (con minúsculas).
+- Los archivos PDF deben estar en formato PDF válido.
+- Para mejor compatibilidad, usa PDFs optimizados para web.
